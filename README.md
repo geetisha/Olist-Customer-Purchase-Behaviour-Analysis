@@ -43,10 +43,6 @@ The analysis includes several key visualizations:
 - Heatmaps showing correlations between customer ratings and payment methods.
 - Customer segments visualized through scatter plots.
 
-## How to Use
-1. Clone the repository: 
-    ```bash
-    git clone https://github.com/vijayrangvani/Olist-Customer-Purchase-Behaviour-Analysis.git
     ```
 2. Install the required dependencies listed in `requirements.txt`.
 3. Run the Jupyter notebooks to explore the analysis and visualizations.
@@ -61,6 +57,3 @@ The analysis includes several key visualizations:
 - **Sales Optimization**: Recommendations for improving payment methods and reducing transaction failures.
 - **Segmentation**: Grouped customers based on purchasing behavior to target marketing efforts.
 
-## Contact
-**Vijay Rangvani**  
-[LinkedIn](https://www.linkedin.com/in/vijayrangvani/) | [Portfolio](https://mavenanalytics.io/profile/Vijay-Rangvani/132085571)
